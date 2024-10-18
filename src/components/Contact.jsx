@@ -9,6 +9,7 @@ function Contact() {
                     method="POST"
                     className="flex flex-col m-auto w-full lg:w-1/2 p-5 shadow-lg rounded-md z-10 gap-3 bg-slate-400"
                     action=""
+                    netlify
                 >
                     <h1 className="text-3xl md:text-4xl text-center py-4">Contact me</h1>
                     <label htmlFor="name">Full Name</label>
